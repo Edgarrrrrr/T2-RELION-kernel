@@ -1,0 +1,10 @@
+# Ignore data and backup directories
+data
+data_bak
+ncu
+build
+results
+archive
+*.ncu-rep
+*.csv
+.*
